@@ -1,0 +1,3903 @@
+1
+_ab
+tab
+2
+_able
+able acceptable allowable available immutable inalienable mutable readable reasonable suitable table variable
+3
+acce_
+acceptable access accessed accesses accessible accessing
+4
+_ace
+backspace interface place replace space whitespace
+5
+_ack
+back
+6
+_act
+abstract extract fact
+7
+_ad
+download had instead load read
+8
+_ade
+made
+9
+_afe
+
+10
+_ag
+flag
+11
+_age
+advantage average carriage image language message page percentage wage webpage
+12
+_aid
+
+13
+_ail
+detail email mail
+14
+_ain
+again certain contain explain main obtain plain remain
+15
+_aint
+
+16
+_air
+fair pair
+17
+_ait
+wait
+18
+_ake
+make take
+19
+_ale
+locale
+20
+_alk
+
+21
+_all
+all call findall recall small
+22
+_allet
+
+23
+_alm
+
+24
+_alt
+
+25
+_alve
+
+26
+_am
+bigram downstream program stream
+27
+_amble
+
+28
+_ame
+filename name same
+29
+_amp
+
+30
+_an
+an australian can canadian catalan german human hungarian italian liberman man mean norwegian sighan than urban woman
+31
+_ance
+concordance instance
+32
+_and
+and bland demand hand understand
+33
+_andle
+handle
+34
+_andy
+
+35
+_ane
+arcane
+36
+_ang
+
+37
+_angle
+angle
+38
+_ank
+blank rank
+39
+_ant
+consonant important redundant relevant significant want
+40
+a_oy
+
+41
+_ap
+map textwrap wrap
+42
+_ape
+escape
+43
+ar_
+arbitrarily arbitrary arcane are area argument ari arithmetic around article artificial
+44
+_ar
+appear clear dollar familiar far irregular particular regular similar star tabular
+45
+_arch
+research search
+46
+_ard
+standard wildcard
+47
+_are
+are care compare software square
+48
+_arf
+
+49
+_arge
+large
+50
+_ark
+mark
+51
+_arm
+
+52
+_arn
+learn
+53
+_arrier
+
+54
+_arry
+carry
+55
+_art
+apart part smart start
+56
+_ase
+case lowercase phrase
+57
+_ash
+backslash
+58
+_ask
+ask task
+59
+_asp
+
+60
+_ass
+class pass
+61
+_assive
+
+62
+_ast
+contrast forecast last least
+63
+_aste
+
+64
+_at
+at chat format lolcat that what
+65
+_atch
+match
+66
+_ate
+accommodate appropriate ate concatenate consolidate create date enumerate evaluate generate illustrate inadequate indicate investigate iterate legitimate manipulate motivate separate tabulate template translate
+67
+_ater
+later
+68
+_ath
+
+69
+_ather
+rather weather
+70
+_ative
+alternative negative relative
+71
+_atter
+
+72
+_attle
+
+73
+_ault
+default
+74
+_ause
+because
+75
+_ave
+gave have leave save
+76
+_aw
+raw saw
+77
+_awn
+drawn
+78
+_ax
+max syntax
+79
+_ay
+ay display idleay ietquay ingstray may say today way
+80
+_ayer
+
+81
+_aze
+
+1
+ba_
+back backslash backspace baldwin based basic basis batchelder
+2
+_bage
+
+3
+bal_
+baldwin
+4
+ban_
+
+5
+bar_
+
+6
+basi_
+basic basis
+7
+b_ch
+
+8
+b_d
+based behind beyond bland boosted borrowed bound braced bracketed build
+9
+be_
+be beautifulsoup beazley because becomes been before begin beginning begins behavior behaviors behind being below best between beyond
+10
+bea_
+beautifulsoup beazley
+11
+bee_
+been
+12
+b_g
+beginning being big blog breaking building
+13
+bi_
+big bigram bilingual binary bit
+14
+bi_e
+
+15
+_bine
+combine
+16
+b_k
+back blank book break
+17
+bla_
+bland blank
+18
+bla_e
+
+19
+bl_d
+bland
+20
+_ble
+able acceptable accessible allowable available double flexible immutable inalienable inexpressible inlnble mutable possible readable reasonable suitable table variable
+21
+ble_
+
+22
+b_ll
+
+23
+blo_
+blog blogosphere blondes
+24
+bloo_
+
+25
+_blu
+
+26
+b_n
+baldwin been begin between breton brown
+27
+b_nd
+behind beyond bland bound
+28
+b_ner
+
+29
+bo_
+book books boosted borrowed both bound boundaries boundary box
+30
+bo_e
+
+31
+boa_
+
+32
+boo_
+book books boosted
+33
+bra_
+braced bracketed brackets
+34
+bra_e
+
+35
+brea_
+break breaking breaks
+36
+bn_
+
+37
+br_d
+braced bracketed
+38
+bri_e
+
+39
+bri_le
+
+40
+broo_
+
+41
+b_t
+best bit but
+42
+b_th
+both
+43
+bu_
+build building bundles but
+44
+bu_er
+
+45
+bu_er
+
+46
+bul_
+
+47
+bur_
+
+1
+ca_
+ca calculation call called calling can canada canadian canonical capital capitalization capture capturing care careful carefully caret carriage carry case cases catalan catalog categorize caution
+2
+ca_e
+capture care carriage case categorize
+3
+ca_er
+
+4
+ca_le
+
+5
+cab_
+
+6
+car_
+care careful carefully caret carriage carry
+7
+c_d
+called complicated compound constrained constructed contained converted corrected correspond could covered created crossword
+8
+ce_
+ce cell center certain
+9
+_ceed
+
+10
+_ceive
+
+11
+_cel
+
+12
+_cent
+percent
+13
+_cept
+concept except
+14
+_cess
+access preprocess process
+15
+cha_
+challenge challenging change changes changing chapter chapters character characters chat
+16
+cha_e
+challenge change
+17
+cha_er
+chapter character
+18
+che_
+check checking chevrons
+19
+chee_
+
+20
+ch_p
+
+21
+_cial
+artificial special
+22
+_cide
+
+23
+_cite
+
+24
+_cialist
+
+25
+_cious
+
+26
+_cket
+
+27
+_ckle
+
+28
+c_l
+call canonical capital careful cell conditional control cortisol
+29
+cla_
+clarity class classes clauses
+30
+clo_
+close closely closures
+31
+clu_
+cluster
+32
+_clude
+conclude exclude include
+33
+c_n
+calculation can canadian capitalization catalan caution certain chosen citation collection collocation colon column combination common comprehension concatenation connection contain convention conversion correlation
+34
+coa_
+
+35
+coi_
+
+36
+com_
+combination combine come comes commands comments common compare compile complementary complete complex complicated complications compound comprehension comprehensive compute
+37
+conce_
+conceivably concept concepts concerning
+38
+confi_
+configure
+39
+consu_
+consult consulting consume
+40
+conte_
+content contents context
+41
+contra_
+contrast
+42
+conve_
+convenient conveniently convention conventions conversely conversion convert converted converting converts
+43
+co_ect
+correct
+44
+cop_
+copy
+45
+cor_
+corner corpora corpus correct corrected correcting correctly correlation correspond corresponding correspondingly corresponds cortisol
+46
+_cord
+
+47
+cos_
+
+48
+cou_
+could count counting courier
+49
+cra_
+crafting
+50
+cro_
+crossword
+51
+cru_
+crude
+52
+cr_sh
+
+53
+c_st
+contrast
+54
+c_t
+caret chat concept consonant construct consult content context contrast convenient convert correct count
+55
+_ctor
+factor
+56
+_cture
+structure
+57
+cu_e
+customize
+58
+cu_
+customize
+1
+da_
+danish data date dates david
+2
+da_e
+date
+3
+dai_y
+
+4
+d_ck
+
+5
+_ddle
+muddle
+6
+de_
+deal dealing decimal declaration decoding def default define defined definitely demand demands demonstrated demonstrates depending deprived deriv describe described describing detail detailed details detect detected detecting determine determiner determiners determines determining develop developer
+7
+dea_
+deal dealing
+8
+deci_
+decimal
+9
+dee_
+
+10
+defe_
+
+11
+deli_
+
+12
+_den
+
+13
+deser_
+
+14
+desp_
+
+15
+detai_
+detail detailed details
+16
+devi_
+
+17
+di_
+dictionary did die differ difference differences different difficult difficulty digit digits direction directly discover discovering discovers discrete discuss discussed discussion discussions disjunction disk dislayed dispense display displayed displays distinct distinction distinctions distinguish distribut distribution distributions division
+18
+di_e
+die difference discrete dispense
+19
+_dial
+
+20
+_dial
+
+21
+_dical
+
+22
+_ding
+according adding avoiding building coding corresponding decoding depending encoding ending finding including padding preceding reading understanding
+23
+_dium
+
+24
+_dit
+
+25
+d_m
+downstream
+26
+d_n
+dclrtn declaration direction discussion disjunction distinction distribution division documentation drawn
+27
+do_
+do document documentation documents does dog dogs doing dollar domains done double download downloaded downloads downstream
+28
+do_e
+done double
+29
+_dow
+
+30
+dra_
+drawn
+31
+drea_
+
+32
+dri_
+drive
+33
+dro_
+drop
+34
+_dru
+
+35
+d_sk
+disk
+36
+d_t
+default detect different difficult digit distinct distribut document
+37
+d_ve
+drive
+38
+du_
+duplicated dutch
+39
+_duce
+produce
+40
+_duct
+
+1
+_ea
+area
+2
+ea_
+each earlier easiest easily easy
+3
+_each
+each
+4
+_ead
+instead read
+5
+_eaf
+
+6
+_eak
+break linebreak lolspeak
+7
+_eal
+deal real
+8
+_ealous
+
+9
+_earn
+learn
+10
+_ean
+mean
+11
+_eap
+
+12
+ear_
+earlier
+13
+_ear
+appear clear
+14
+_eam
+downstream stream
+15
+_ease
+
+16
+_eason
+
+17
+_east
+least
+18
+_eat
+
+19
+_eath
+
+20
+_eather
+weather
+21
+_eature
+
+22
+_eave
+leave
+23
+_eck
+check
+24
+_ecent
+
+25
+_ed
+accessed added advanced ameliorated appeared applied assigned automated based boosted borrowed braced bracketed called complicated constrained constructed contained converted corrected covered created defined demonstrated deprived described detailed detected discussed dislayed displayed downloaded duplicated ed encoded entered established expected explained extended extracted fed feed focused followed formatted formed generated handled hyphenated ignored illustrated imported included indeed indexed inserted installed intended interested interpreted involved joined learned listed mapped matched modified monied named ned need needed nested normalized noted omitted opened organized oriented padded passed pasted posted preceded predicted preserved printed processed produced pronounced published quoted realized referred related removed rendered represented restricted returned revised scanned selected separated simulated sorted specialized specified stored suggested summarized tabulated tied tokenized typed unannotated uncontrolled unexpected unlimited unwanted used wanted worked wrapped
+26
+_ee
+ee free see three
+27
+_eed
+feed indeed need
+28
+_eef
+
+29
+_eek
+
+30
+_eel
+
+31
+_eem
+
+32
+_een
+been between fifteen green screen seen unseen
+33
+_eep
+keep sleep
+34
+_eer
+
+35
+_eet
+
+36
+_eeze
+
+37
+_eg
+
+38
+_eight
+
+39
+_ell
+cell tell well
+40
+_elief
+
+41
+_elieve
+
+42
+_elt
+
+43
+_ember
+remember
+44
+_emble
+
+45
+_ement
+implement statement
+46
+emp_
+empty
+47
+_em
+item problem stem system them
+48
+_en
+been between chosen even fifteen given green hyphen len often open screen seen then token unseen urlopen when women written
+49
+_ence
+difference evidence intelligence preference presence reference science sentence sequence
+50
+_ench
+french
+51
+_end
+append end extend legend
+52
+_ender
+render
+53
+_ense
+dispense license nonsense sense
+54
+_ent
+alignment argument content convenient different document efficient experiment frequent implement inconsistent percent present punishment represent sent statement
+55
+_era
+sera
+56
+_eral
+general literal several
+57
+_erate
+enumerate generate iterate
+58
+_erb
+
+59
+_ere
+blogosphere here somewhere there were where
+60
+_erent
+different
+61
+_erge
+
+62
+_erior
+
+63
+_erish
+
+64
+_erm
+
+65
+_ernal
+
+66
+_erous
+
+67
+_erry
+
+68
+_erse
+reverse
+69
+_ert
+convert insert
+70
+_ertain
+certain
+71
+_erty
+
+72
+_erve
+observe preserve
+73
+_eside
+
+74
+_ess
+access address colorless colourless nevertheless preprocess process
+75
+_essive
+
+76
+_ession
+expression session
+77
+_esh
+
+78
+_est
+best easiest interest lowest request test
+79
+_esty
+
+80
+_et
+alphabet caret get internet interpret let offset quiet set snippet sonnet subset synset wet wordnet yet
+81
+_etch
+
+82
+_ettle
+
+83
+_etty
+
+84
+_etail
+detail
+85
+eve_
+even ever every everything
+86
+_ever
+clever ever however
+87
+_evise
+
+88
+_ew
+few new overview view
+89
+_ex
+complex hex index soundex
+90
+exa_
+exactly examine examining example examples
+91
+exce_
+except
+92
+exp_t
+experiment
+93
+_ey
+beazley key they
+1
+fai_
+failing fair
+2
+far_
+far
+3
+f_d
+fed feed field find focused followed formatted formed found
+4
+_fect
+
+5
+_fence
+
+6
+_fer
+differ prefer refer
+7
+_fenence
+
+8
+fee_
+feed feeds
+9
+_fend
+
+10
+_ffer
+differ
+11
+_ffice
+
+12
+_ficial
+artificial
+13
+_ficient
+efficient
+14
+_fine
+define redefine
+15
+_firm
+
+16
+fil_
+file filename filenames files filter
+17
+f_l
+final findall formal full fundamental
+18
+fla_
+flag
+19
+fla_e
+
+20
+_fleet
+
+21
+f_ll
+findall full
+22
+fl_sh
+
+23
+flu_
+
+24
+f_m
+form from
+25
+fol_
+follow followed following follows
+26
+foo_
+footer footers
+27
+_force
+
+28
+_fort
+
+29
+for_
+for forecast form formal format formats formatted formatting formed forms
+30
+fo_
+focus focused follow followed following follows font fonts footer footers for forecast form formal format formats formatted formatting formed forms found four fourth
+31
+form_
+form formal format formats formatted formatting formed forms
+32
+_form
+form perform
+33
+fre_
+free freely french frequencies frequency frequent frequently
+34
+fii_
+
+35
+fro_
+from
+36
+f_st
+first forecast
+37
+f_t
+fact first font forecast format frequent
+38
+f_th
+fourth
+39
+_fuse
+
+40
+fu_
+full fun function functionality fundamental furiously further furthermore fuzzy
+1
+ga_
+gave
+2
+ga_e
+gave
+3
+_gain
+again
+4
+_gage
+
+5
+_gar
+
+6
+_gent
+
+7
+_geon
+
+8
+_gest
+
+9
+_get
+get
+10
+_gger
+
+11
+_gic
+
+12
+_gin
+begin
+13
+_gle
+angle google single
+14
+g_m
+
+15
+g_n
+german given green
+16
+go_
+go goal goes going golf good google got
+17
+gra_
+granularity graphical
+18
+gra_e
+
+19
+gr_d
+
+20
+_gressive
+
+21
+gree_
+greedy green
+22
+_gress
+
+23
+gri_
+
+24
+gr_n
+green
+25
+gro_
+group
+26
+gr_t
+
+27
+g_t
+get got
+28
+gu_
+guesses gutenberg
+29
+_gue
+
+30
+gui_
+
+31
+_gular
+irregular regular
+1
+ha_
+habit had haha hand handle handled handles handling happens harmony has have having
+2
+ha_c
+
+3
+hal_
+
+4
+han_
+hand handle handled handles handling
+5
+har_
+harmony
+6
+_harp
+
+7
+h_d
+had hand handled hold hyphenated
+8
+he_
+he header headers headings headwords heheeh help helpful helps here heuristic hex hexadecimal
+9
+hea_
+header headers headings headwords
+10
+he_e
+here
+11
+her_
+here
+12
+_hen
+hyphen then when
+13
+hi_
+hierarchy hig highly hint hits
+14
+_hibit
+
+15
+h_l
+helpful hexadecimal html
+16
+h_ll
+
+17
+h_m
+hypernym
+18
+h_n
+human hungarian hyphen
+19
+ho_
+hold hole how however howto howtos
+20
+ho_e
+hole
+21
+hone_
+
+22
+host_
+
+23
+hou_
+
+24
+h_p
+help http
+25
+h_t
+habit hint
+26
+hu_
+huge human hungarian
+27
+hum_
+human
+28
+hur_
+
+1
+_ial
+artificial initial material partial special trial tutorial
+2
+_iant
+
+3
+_iation
+pronunciation
+4
+_ibe
+describe
+5
+_ice
+choice notice practice slice twice vice
+6
+_ical
+alphabetical canonical geographical graphical identical morphological numerical practical theoretical
+7
+_icate
+indicate
+8
+_ication
+application multiplication specification
+9
+_ician
+
+10
+_icipate
+
+11
+_icle
+article
+12
+_ick
+pick
+13
+_icken
+
+14
+_icket
+
+15
+_iction
+fiction
+16
+_ickle
+
+17
+_id
+avoid david did valid
+18
+_iddle
+
+19
+_ide
+inside outside provide wide
+20
+_idence
+evidence
+21
+_ident
+
+22
+_ider
+consider
+23
+_idge
+
+24
+_ie
+die lie
+25
+_iece
+piece
+26
+_ief
+
+27
+_ield
+field yield
+28
+_ience
+science
+29
+_ient
+convenient efficient
+30
+_ierce
+
+31
+_iety
+variety
+32
+_ieve
+
+33
+_ife
+
+34
+_iff
+
+35
+_ific
+scientific specific
+36
+_ift
+
+37
+_ig
+big hig pig
+38
+_igh
+
+39
+_ight
+might right
+40
+_ighten
+
+41
+_ighty
+
+42
+_ike
+like unlike
+43
+_ild
+build
+44
+_ile
+compile file mobile while
+45
+_ility
+readability utility
+46
+_ilk
+
+47
+_ill
+still will
+48
+_illion
+million
+49
+_ily
+arbitrarily easily
+50
+_im
+kim
+51
+_imate
+legitimate
+52
+_ime
+crime time
+53
+_imum
+maximum minimum optimum
+54
+_imp
+
+55
+_imp
+
+56
+_in
+again baldwin begin certain contain explain in join latin main min obtain plain remain within
+57
+_ince
+since
+58
+_inch
+
+59
+_ind
+behind find kind mind rfind
+60
+_ine
+combine define determine engine examine inline line machine medline newline nine online pipeline redefine
+61
+_inent
+
+62
+inf_
+informal information infuriating
+63
+_ing
+accessing according adding allowing analyzing annealing anything assigning avoiding beginning being breaking building calling capturing challenging changing checking choosing coding concatenating concerning consisting consulting containing converting correcting corresponding counting covering crafting creating dealing decoding depending describing detecting determining discovering doing editing encoding ending entering everything examining exercising existing explaining exploring extracting failing finding floating following formatting going handling having identifying illustrating including indexing infuriating inputting inserting interacting interesting involving leaving listing locating lying making mapping mastering matching meaning modeling normalizing nothing occurring omitting opening operating padding preceding prefixing pressing printing processing producing programming promising reading realizing resulting retaining running saving saying searching segmenting selecting slicing sneezing sorting specifying spelling starting stemming stopping string stripping studying substring tabulating telling thing tokenizing translating trimming trying typing underlying understanding using working wrapping writing
+64
+_inge
+
+65
+_inger
+
+66
+_ingle
+single
+67
+_ink
+link think
+68
+_inkle
+
+69
+ins_
+insert inserted inserting inside inspect inspection installed instance instances instead instruct instructive
+70
+inst_
+installed instance instances instead instruct instructive
+71
+inte_
+integer integers intelligence intended interacting interactive interest interested interesting interface internet interpret interpretation interpreted interpreter
+72
+inve_
+investigate
+73
+_ion
+acquisition addition application approximation calculation capitalization caution citation collection collocation combination comprehension concatenation connection convention conversion correlation declaration direction discussion disjunction distinction distribution division documentation expression extraction fiction function indentation information inspection interpretation lemmatization million multiplication navigation normalization notation operation option position precision pronunciation punctuation quotation representation section segmentation separation session specification substitution subtraction tabulation tokenization transformation translation version
+74
+_ious
+previous various
+75
+_ip
+strip
+76
+_ipe
+pipe
+77
+_ir
+fair pair their
+78
+_ini
+
+79
+_ire
+entire
+80
+_irt
+
+81
+_irst
+first
+82
+_irl
+
+83
+_ise
+exercise otherwise
+84
+_ish
+danish distinguish english finnish polish spanish
+85
+_isk
+disk
+86
+_ision
+division precision
+87
+_iss
+
+88
+_ission
+
+89
+_issue
+
+90
+_ist
+exist list
+91
+_istle
+
+92
+_ister
+
+93
+_it
+bit digit habit it limit omit split wait wit
+94
+_itch
+
+95
+_ite
+favorite overwrite quite rewrite site write
+96
+_ition
+acquisition addition position
+97
+_itive
+positive
+98
+_itude
+
+99
+_itter
+
+100
+_ittle
+little
+101
+_ital
+capital
+102
+_ity
+city clarity creativity functionality granularity nationality quantity readability reality similarity simplicity utility
+103
+_ival
+
+104
+_ive
+alternative comprehensive consecutive drive extensive five give instructive interactive live negative perspective positive relative respective
+105
+_ix
+affix prefix six suffix
+106
+_ize
+categorize customize initialize normalize parenthesize size tokenize visualize
+1
+ja_
+javascript
+2
+_ject
+object project
+3
+j_g
+
+4
+jo_
+joel join joined
+5
+ju_
+just
+6
+ju_e
+
+1
+kee_
+keep keeps
+2
+_key
+key
+3
+_ken
+token
+4
+ki_
+kim kind kinds
+5
+kno_
+know knowledge known knows
+6
+kn_t
+
+1
+lla_
+
+2
+_lack
+
+3
+la_e
+language large
+4
+la_er
+lancaster later laughter
+5
+_land
+bland
+6
+_lap
+
+7
+_lapse
+
+8
+_lar
+dollar irregular particular regular similar tabular
+9
+_lash
+backslash
+10
+_lastic
+
+11
+_late
+manipulate tabulate template translate
+12
+_lalion
+
+13
+lau_
+laughter
+14
+_law
+
+15
+_lay
+display
+16
+la_y
+
+17
+l_ck
+
+18
+l_d
+learned legend listed load
+19
+le_
+learn learned learners least leave leaving left legend legitimate lemma lemmas lemmatization lemmatizer len length lengths let lets letter letters level lexeme lexicon
+20
+lea_
+learn learned learners least leave leaving
+21
+_lect
+select
+22
+_lection
+collection
+23
+_lend
+
+24
+_lent
+
+25
+_let
+let
+26
+_lete
+complete
+27
+l_g
+languagelog leaving listing locating long lying
+28
+li_
+liberman libraries library license lie like likely limit line linebreak lines linguistic link links list listed listing lists literal literally literals little live
+29
+_liance
+
+30
+_licate
+
+31
+_lication
+application multiplication
+32
+_lice
+slice
+33
+_lid
+valid
+34
+li_e
+license lie like line little live
+35
+li_er
+
+36
+_lify
+
+37
+_light
+
+38
+_limb
+
+39
+_line
+inline line medline newline online pipeline
+40
+_ling
+annealing calling dealing failing handling modeling spelling telling
+41
+_lish
+english polish
+42
+_live
+live
+43
+l_k
+linebreak link ljk lolspeak look
+44
+_llar
+dollar
+45
+_llen
+
+46
+_llet
+
+47
+_lley
+
+48
+_lling
+calling spelling telling
+49
+_llow
+allow follow yellow
+50
+_lly
+actually automatically carefully finally generally literally manually optionally potentially silly specially typically usually
+51
+l_mp
+
+52
+l_n
+latin learn lemmatization len lexicon liberman
+53
+lo_
+load local locale locates locating lolcat lolspeak long longer look looks loop loops lore lose lot love lower lowercase lowest
+54
+loa_
+load
+55
+_lock
+
+56
+lo_e
+locale lore lose love lowercase
+57
+_lon
+colon
+58
+_long
+along long
+59
+loo_
+look looks loop loops
+60
+_lor
+
+61
+_lot
+lot plot
+62
+_loud
+
+63
+_low
+allow below follow yellow
+64
+l_p
+laptop loop
+65
+_lse
+else false
+66
+l_st
+last least list lowest
+67
+_lter
+filter
+68
+l_tter
+letter
+69
+lu_
+
+70
+_lue
+glue value
+71
+_lush
+
+72
+l_ver
+
+73
+_ly
+absolutely actually alternatively apply arbitrarily automatically carefully closely conceivably concisely consequently conveniently conversely correctly correspondingly definitely directly easily entirely exactly finally freely frequently furiously generally highly incorrectly likely literally manually multiply namely obviously only optionally particularly positively possibly potentially previously probably properly quickly randomly reliably respectively severely silly similarly simply specially studiously typically ultimately undoubtedly unfortunately unpredictably usually widely
+1
+m_d
+mapped matched method mind modified monied msword multiword
+2
+ma_je
+
+3
+ma_er
+
+4
+mai_
+mail main
+5
+_man
+german human liberman man woman
+6
+ma_or
+major
+7
+mar_
+mark marks markup
+8
+mas_
+mastering
+9
+mat_
+match matched matches matching material materials
+10
+mea_
+mean meaning means measures
+11
+men_
+mentions
+12
+_ment
+alignment argument document experiment implement punishment statement
+13
+mer_
+
+14
+met_
+meta metallurgy method methods
+15
+_mission
+
+16
+mi_e
+
+17
+mi_er
+
+18
+mil_
+million
+19
+min_
+min mind minimum minus
+20
+mis_
+
+21
+_mit
+limit omit
+22
+_mmer
+stemmer
+23
+m_n
+main man mean million min multiplication
+24
+mo_
+mobile modeling modified modify module monetary monied monty more morphological morphology most motivate move
+25
+mo_e
+mobile module more motivate move
+26
+_mon
+common
+27
+moo_
+
+28
+mor_
+more morphological morphology
+29
+_most
+most
+30
+mot_
+motivate
+31
+_motion
+
+32
+mou_
+
+33
+m_p
+map markup
+34
+m_ss
+
+35
+m_st
+most must
+36
+m_t
+might most must
+37
+m_tal
+
+38
+mu_
+much muddle multilingual multiple multiplication multiply multiword must mutable
+39
+mu_e
+muddle multiple mutable
+1
+_nal
+additional conditional final optional ordinal original terminal
+2
+_neral
+general
+3
+_ngle
+angle single
+4
+_nic
+electronic
+5
+_ning
+assigning beginning concerning containing determining examining explaining meaning opening retaining running
+6
+_nion
+
+7
+_nish
+danish finnish spanish
+8
+_nity
+
+9
+_nite
+
+10
+n_n
+navigation normalization norwegian notation
+11
+_nner
+
+12
+_nnel
+
+13
+_nny
+
+14
+no_
+no nom none nonsense normal normalization normalize normalized normalizing norwegian not notation notations note noted nothing notice nouns novel now
+15
+no_e
+none nonsense normalize note notice
+16
+_nounce
+
+17
+_now
+know now
+18
+_nob
+
+19
+n_t
+next not
+20
+nu_
+number numbers numeric numerical
+21
+_ny
+any harmony many
+1
+oa_
+
+2
+_oad
+download load
+3
+_oak
+
+4
+_oam
+
+5
+_oan
+
+6
+_oar
+
+7
+_oarse
+
+8
+_oast
+
+9
+_oat
+
+10
+_ob
+
+11
+_obby
+
+12
+_obe
+
+13
+_ock
+
+14
+_ocket
+
+15
+_od
+good method period
+16
+_ode
+code unicode
+17
+_oduce
+produce
+18
+_oe
+
+19
+off_
+off offset
+20
+_og
+blog catalog dog languagelog prog
+21
+_oice
+choice
+22
+_oil
+
+23
+_oin
+join
+24
+_oint
+point
+25
+_oist
+
+26
+_oke
+stroke
+27
+_olar
+
+28
+_olate
+
+29
+_old
+hold told
+30
+_ole
+hole sole whole
+31
+_olf
+golf
+32
+_olk
+
+33
+_ou
+aeiou you
+34
+_ollar
+dollar
+35
+_ollow
+follow
+36
+_ology
+morphology ontology
+37
+_olt
+
+38
+_olve
+involve solve
+39
+_omb
+
+40
+_ome
+come some
+41
+_on
+acquisition addition application approximation breton calculation capitalization caution citation collection collocation colon combination common comprehension concatenation connection convention conversion correlation declaration direction discussion disjunction distinction distribution division documentation expression extraction fiction function indentation information inspection interpretation lemmatization lexicon million multiplication navigation normalization notation on operation option phenomenon position precision pronunciation punctuation python quotation representation section segmentation separation session specification substitution subtraction tabulation tokenization transformation translation version
+42
+_ond
+beyond correspond second
+43
+_onder
+
+44
+_one
+alone done none one
+45
+_oney
+
+46
+_ong
+along long
+47
+_ony
+harmony
+48
+_ood
+good
+49
+_oof
+
+50
+_ook
+book look
+51
+_ool
+tool
+52
+_oom
+room
+53
+_oon
+
+54
+_oop
+loop
+55
+_oor
+
+56
+_oose
+choose
+57
+_oot
+woot
+58
+_ooth
+
+59
+_op
+develop drop laptop loop stop top
+60
+_ope
+europe scope
+61
+_opic
+
+62
+_orch
+
+63
+_ord
+crossword msword multiword ord word
+64
+_order
+order
+65
+_ore
+adore before explore furthermore ignore lore more score store therefore
+66
+_ork
+work
+67
+_orm
+form perform
+68
+_om
+from nom random room
+69
+_orrow
+
+70
+_orry
+
+71
+_orse
+
+72
+_ort
+import report resort support
+73
+_orth
+
+74
+_ose
+choose close enclose lose suppose verbose whose
+75
+_osinon
+
+76
+_oss
+across
+77
+_ost
+most post
+78
+_ostage
+
+79
+_ot
+got lot not plot spot woot
+80
+_ote
+note quote
+81
+_otel
+
+82
+_other
+another other
+83
+_ouch
+
+84
+_oud
+
+85
+_ought
+thought
+86
+_oul
+
+87
+_ould
+could should would
+88
+_ounce
+
+89
+_ound
+around bound compound found
+90
+_ount
+amount count
+91
+_ountain
+
+92
+_our
+four our your
+93
+_ourish
+
+94
+_ouse
+
+95
+_out
+about out without
+96
+_outh
+
+97
+_ove
+above improve love move remove
+98
+ove_
+over overflows overview overwrite
+99
+_ovel
+novel
+100
+_over
+discover over
+101
+overh_
+
+102
+_ow
+allow below follow how know now row show yellow
+103
+ow_
+own
+104
+_ower
+lower power slower
+105
+_owel
+vowel
+106
+_owl
+
+107
+_own
+brown known own shown town unknown
+1
+_py
+copy
+1
+_ox
+box
+2
+_oyal
+
+1
+pack_
+
+2
+pa_e
+page parenthesize
+3
+pai_
+pair
+4
+_pair
+pair
+5
+pal_
+
+6
+_pan
+
+7
+pan_
+
+8
+par_
+paragraphs parameter parentheses parenthesize parser part partial particular particularly parts
+9
+_pare
+compare
+10
+_parent
+
+11
+_part
+apart part
+12
+_pass
+pass
+13
+pass_
+pass passed
+14
+_past
+
+15
+pat_
+patt pattern patterns
+16
+p_ch
+
+17
+p_ck
+pick
+18
+p_d
+padded passed pasted period posted preceded predicted preserved printed processed produced pronounced published
+19
+p_der
+
+20
+pe_
+people per percent percentage perform perhaps period perspective
+21
+pea_
+
+22
+pee_
+
+23
+_pel
+
+24
+pen_
+
+25
+_pen
+open urlopen
+26
+_pent
+
+27
+_per
+developer paper per proper
+28
+per_
+per percent percentage perform perhaps period perspective
+29
+_perate
+
+30
+perf_
+perform
+31
+_pet
+snippet
+32
+pe_y
+
+33
+pi_
+pick piece pieces pig pipe pipeline
+34
+pie_
+piece pieces
+35
+pill_
+
+36
+pin_
+
+37
+_pire
+
+38
+p_ish
+polish
+39
+pistp_
+
+40
+pi_
+pick piece pieces pig pipe pipeline
+41
+p_k
+pick
+42
+p_l
+partial powerful practical pull
+43
+pla_
+place plain
+44
+pla_e
+place
+45
+_plain
+explain plain
+46
+_ple
+example multiple people sample simple
+47
+p_ll
+pull
+48
+plu_
+plus
+49
+_ply
+apply multiply simply
+50
+p_n
+pattern phenomenon plain position precision pronoun pronunciation punctuation python
+51
+po_
+point points polish ponds porter portuguese position positive positively positives possibilities possible possibly post posted posts potentially power powerful powers
+52
+po_e
+portuguese positive possible
+53
+poe_
+
+54
+po_er
+porter power
+55
+pol_
+polish
+56
+poli_
+polish
+57
+poo_
+
+58
+por_
+porter portuguese
+59
+_port
+import report support
+60
+_pose
+suppose
+61
+_position
+position
+62
+post_
+post posted posts
+63
+_pper
+
+64
+_pple
+
+65
+pre_
+precede preceded preceding precision predicted prefer preference preferences prefix prefixing preprocess presence present presentations preserve preserved pressing previous previously
+66
+prec_
+precede preceded preceding precision
+67
+_press
+
+68
+_pression
+expression
+69
+prev_
+previous previously
+70
+pri_
+print printed printing prints
+71
+pri_e
+
+72
+pro_
+probably problem problems process processed processes processing produce produced produces producing prog program programming programs project promising prompt pronoun pronounced pronunciation proper properly properties provide provides proxy
+73
+pro_e
+produce provide
+74
+prom_
+promising prompt
+75
+prop_
+proper properly properties
+76
+prot_
+
+77
+prov_
+provide provides
+78
+_prove
+improve
+79
+p_st
+post
+80
+p_t
+part patt percent plot point post present print project prompt punishment punkt put
+81
+_pture
+capture
+82
+pu_
+published pull punctuation punishment punkt purposes put puzzle
+83
+pu_e
+puzzle
+84
+pup_
+
+85
+pur_
+purposes
+1
+quar_
+
+2
+_que
+technique unique
+3
+quee_
+
+4
+_quest
+request
+5
+qui_
+quickly quiet quite
+6
+_quire
+
+1
+ra_
+random randomly range ranges rank rather raw
+2
+_race
+
+3
+_rack
+
+4
+radi_
+
+5
+_rade
+
+6
+ra_e
+range
+7
+_raft
+
+8
+_rage
+average
+9
+rai_
+
+10
+_rain
+
+11
+ra_io
+
+12
+_raise
+
+13
+_ral
+general literal rural several
+14
+_ranch
+
+15
+_range
+range
+16
+_rank
+rank
+17
+_rant
+
+18
+_rap
+textwrap wrap
+19
+rat_
+rather
+20
+_ravel
+
+21
+_ray
+ingstray
+22
+r_b
+
+23
+r_ch
+research
+24
+r_d
+read realized referred related removed rendered represented restricted returned revised rfind
+25
+r_der
+render
+26
+re_
+re read readability readable reading readings reads real reality realized realizing reasonable recall redefine redundant refer reference references referred regexp regions registers regular related relative relevant reliably remain remember remove removed removes render rendered repeats replace report represent representation representations represented request requires research resort resources respective respectively restricted result resulting results retaining return returned returns reverse revised rewrite
+27
+rea_
+read readability readable reading readings reads real reality realized realizing reasonable
+28
+_read
+read
+29
+_rease
+
+30
+_resent
+present represent
+31
+rec_
+recall
+32
+_rect
+correct
+33
+_red
+appeared covered entered ignored referred rendered stored
+34
+_ree
+free three
+35
+ree_
+
+36
+ref_
+refer reference references referred
+37
+reg_
+regexp regions registers regular
+38
+rei_
+
+39
+rel_
+related relative relevant reliably
+40
+rem_
+remain remember remove removed removes
+41
+_ren
+
+42
+ren_
+render rendered
+1
+_nent
+
+1
+rep_
+repeats replace report represent representation representations represented
+2
+res_
+research resort resources respective respectively restricted result resulting results
+3
+_ress
+address
+4
+_rest
+interest
+5
+_ret
+caret interpret
+6
+ret_
+retaining return returned returns
+7
+rev_
+reverse revised
+8
+r_f
+
+9
+r_g
+reading realizing resulting retaining running
+10
+ri_
+ri right rights risky
+11
+_ridge
+
+12
+ri_e
+
+13
+_rifle
+
+14
+_rify
+
+15
+ri_le
+
+16
+_rine
+
+17
+_ring
+capturing covering discovering entering exploring mastering occurring string substring
+18
+_rious
+various
+19
+_rip
+strip
+20
+_ripple
+
+21
+_rise
+
+22
+_rish
+
+23
+_rive
+drive
+24
+r_l
+real recall rural
+25
+r_m
+random room
+26
+_rmal
+formal informal normal
+27
+r_n
+remain representation return run
+28
+ro_
+room rotokas row rows
+29
+roa_
+
+30
+_road
+
+31
+ro_e
+
+32
+roo_
+room
+33
+rot_
+rotokas
+34
+rou_
+
+35
+_rough
+through
+36
+_rove
+improve
+37
+_row
+row
+38
+r_p
+regexp
+39
+_rrel
+
+40
+_rror
+error indexerror
+41
+_row
+row
+42
+r_st
+request
+43
+r_t
+redundant relevant report represent request resort result right
+44
+ru_
+rule rules run running rural
+45
+ru_e
+rule
+46
+ru_er
+
+47
+_runk
+
+48
+_ry
+arbitrary binary boundary carry complementary dictionary entry every glory introductory library monetary necessary query story summary theory try very vocabulary
+1
+sa_
+same sample samples satisfy save saves saving saw say saying
+2
+sa_e
+same sample save
+3
+_sage
+message
+4
+sal_
+
+5
+sau_
+
+6
+sca_e
+
+7
+scar_
+
+8
+scen_
+
+9
+s_ck
+
+10
+_scribe
+describe
+11
+_scription
+
+12
+sco_
+scope score scores
+13
+sco_e
+scope score
+14
+s_d
+scanned second selected separated should simulated sorted specialized specified standard stored suggested summarized
+15
+se_
+search searches searching second seconds section sections see seen segmentation segmenting select selected selecting semantic sense sent sentence sentences separate separated separation sequence sequences sera session set sets several severely
+16
+sea_
+search searches searching
+17
+sec_
+second seconds section sections
+18
+see_
+see seen
+19
+_sel
+
+20
+sel_
+select selected selecting
+21
+sen_
+sense sent sentence sentences
+22
+_sence
+presence
+23
+_sent
+present represent sent
+24
+_ser
+browser parser user
+25
+ser_
+sera
+26
+_sert
+insert
+27
+_servation
+
+28
+_serve
+observe preserve
+29
+_set
+offset set subset synset
+30
+s_ff
+
+31
+sh_p
+
+32
+sh_t
+
+33
+si_
+si sighan sign significant silly similar similarity similarly simple simpler simplicity simply simulated since single site sites six sixth size
+34
+_sible
+accessible inexpressible possible
+35
+_sical
+
+36
+_side
+inside outside
+37
+si_e
+simple since single site size
+38
+_sign
+assign sign
+39
+sil_
+silly
+40
+_sin
+
+41
+sin_
+since single
+42
+_sion
+comprehension conversion discussion division expression precision session version
+43
+_sis
+analysis basis genesis
+44
+_sist
+
+45
+s_k
+slovak
+46
+ski_
+
+47
+s_l
+several small special still symbol
+48
+sla_
+
+49
+_slarn
+
+50
+slee_
+sleep
+51
+sli_
+slice slices slicing
+52
+sli_e
+slice
+53
+sl_m
+
+54
+slo_
+slovak slower
+55
+sl_p
+sleep
+56
+s_m
+stem stream sum system
+57
+sma_
+small smaller smart
+58
+sna_
+
+59
+s_n
+screen section seen segmentation separation session shown sighan sign specification substitution subtraction
+60
+sno_
+
+61
+so_
+so software sole solve some sometimes somewhere sonnet sorted sorting soundex source sources
+62
+so_a
+
+63
+soa_
+
+64
+soc_
+
+65
+so_e
+software sole solve some somewhere source
+66
+sol_
+sole solve
+67
+_solve
+solve
+68
+_son
+
+69
+sor_
+sorted sorting
+70
+sou_
+soundex source sources
+71
+spa_e
+space
+72
+spar_
+
+73
+spea_
+speakers
+74
+speci_
+special specialized specially specific specification specified specifier specifiers specifies specify specifying
+75
+_spect
+inspect
+76
+spi_
+
+77
+spi_e
+
+78
+sp_n
+specification
+79
+spo_
+spolsky spot
+80
+sp_t
+split spot
+81
+squa_
+square
+82
+_ssion
+discussion expression session
+83
+sta_
+stages standard star start starting starts statement statements
+84
+sta_e
+
+85
+stai_
+
+86
+_stance
+instance
+87
+_stant
+
+88
+star_
+star start starting starts
+89
+stat_
+statement statements
+90
+s_t
+select sent set significant smart snippet sonnet split spot start statement subset support synset
+91
+s_tch
+
+92
+st_ck
+
+93
+stea_
+
+94
+stee_
+
+95
+_sten
+
+96
+_ster
+cluster lancaster
+97
+_stle
+
+98
+ste_
+stem stemmer stemmers stemming stems step
+99
+sti_
+still
+100
+st_l
+still
+101
+st_m
+stem stream
+102
+st_n
+
+103
+sto_
+stop stopping store stored stories story
+104
+sto_e
+store
+105
+stoo_
+
+106
+stor_
+store stored stories story
+107
+st_p
+step stop strip
+108
+stra_
+
+109
+strai_
+
+110
+stre_
+stream
+111
+stri_
+string strings strip stripping strips
+112
+_strict
+
+113
+stri_e
+
+114
+stro_
+stroke
+115
+st_t
+start statement
+116
+s_tter
+
+117
+stu_
+studiously study studying
+118
+_sture
+
+119
+_sty
+
+120
+su_
+su subset substitution substitutions substring substrings subtleties subtlety subtraction such suffers suffix suffixes suggested suggests suitable suits sum summarized summarizes summary support supports suppose sure
+121
+_sual
+usual
+122
+_sue
+
+123
+su_er
+
+124
+_sult
+consult result
+125
+_sume
+assume consume
+126
+sup_
+support supports suppose
+127
+_sure
+sure
+128
+swa_
+
+129
+swea_
+
+130
+swee_
+
+131
+swi_
+
+1
+ta_
+tab table tables tabs tabular tabulate tabulated tabulating tabulation tags take takes task tasks taxonomy
+2
+_table
+acceptable immutable mutable suitable table
+3
+_tack
+
+4
+ta_e
+table tabulate take
+5
+_tage
+advantage percentage
+6
+_tail
+detail
+7
+_tain
+certain contain obtain
+8
+_take
+take
+9
+_tal
+capital fundamental total
+10
+tal_
+
+11
+ta_le
+table
+12
+_tance
+instance
+13
+_tate
+
+14
+_tation
+citation documentation indentation interpretation notation quotation representation segmentation
+15
+t_ch
+
+16
+t_ck
+
+17
+t_d
+tabulated third tied tokenized told typed
+18
+te_
+technique techniques tell telling tells temperature template tens terminal terms test tests text textonyms texts textwrap
+19
+tea_
+
+20
+_tect
+detect
+21
+_tem
+item stem system
+22
+_tempt
+
+23
+temp_
+temperature template
+24
+_ten
+often written
+25
+ten_
+tens
+26
+_tend
+extend
+27
+_tent
+content inconsistent
+28
+_ter
+after center chapter character cluster enter filter footer interpreter lancaster later laughter letter parameter porter
+29
+_tem
+item stem system
+30
+_tery
+
+31
+_test
+test
+32
+t_g
+tabulating telling thing tokenizing translating trimming trying typing
+33
+tha_
+than that
+34
+_the
+the
+35
+_ther
+another either further other rather together weather whether
+36
+the_
+the their them then theoretical theory there therefore these they
+37
+the_e
+there therefore these
+38
+ther_
+there therefore
+39
+thi_
+thing things think third this
+40
+thir_
+third
+41
+th_n
+than then
+42
+thou_
+though thought thousands
+43
+threa_
+
+44
+thri_
+
+45
+thro_
+through
+46
+thu_
+thus
+47
+ti_
+tied time times
+48
+_tial
+initial partial
+49
+_tical
+alphabetical identical practical theoretical
+50
+_tice
+notice practice
+51
+ti_e
+time
+52
+_tify
+identify
+53
+_tile
+
+54
+tim_
+time times
+55
+_tinct
+distinct
+56
+_tion
+acquisition addition application approximation calculation capitalization caution citation collection collocation combination concatenation connection convention correlation declaration direction disjunction distinction distribution documentation extraction fiction function indentation information inspection interpretation lemmatization multiplication navigation normalization notation operation option position pronunciation punctuation quotation representation section segmentation separation specification substitution subtraction tabulation tokenization transformation translation
+57
+_tire
+entire
+58
+_titude
+
+59
+_tive
+alternative consecutive instructive interactive negative perspective positive relative respective
+60
+t_l
+tell terminal theoretical tool total trial tutorial
+61
+_tle
+little
+62
+t_ll
+tell
+63
+t_n
+tabulation than then token tokenization town transformation translation turn
+64
+_to
+howto into onto to
+65
+to_
+to today together token tokenization tokenize tokenized tokenizer tokenizers tokenizes tokenizing tokens told too tool top total town
+66
+toa_
+
+67
+_tom
+
+68
+_ton
+breton
+69
+ton_
+
+70
+too_
+too tool
+71
+tor_
+
+72
+_tory
+introductory story
+73
+tou_
+
+74
+tow_
+town
+75
+t_p
+textwrap top
+76
+tra_
+transformation translate translating translation
+77
+trac_
+
+78
+_tract
+abstract extract
+79
+tra_e
+translate
+80
+trai_
+
+81
+_train
+
+82
+trans_
+transformation translate translating translation
+83
+_tray
+ingstray
+84
+tr_ck
+
+85
+_tre
+
+86
+trea_
+
+87
+_treat
+
+88
+tren_
+
+89
+_tress
+
+90
+tri_
+trial tries trimming
+91
+_tribute
+
+92
+tr_l
+trial
+93
+tr_m
+
+94
+_trol
+control
+95
+tr_p
+
+96
+tru_
+
+97
+_try
+entry try
+98
+_tten
+written
+99
+_tter
+letter
+100
+_ttle
+little
+101
+_tton
+
+102
+_tty
+
+1
+otu_
+
+1
+_tual
+
+2
+tu_e
+
+3
+tun_
+
+4
+tur_
+turn
+5
+_ture
+capture structure temperature
+6
+_turn
+return turn
+1
+_u
+aeiou qu su you
+2
+_uation
+punctuation
+3
+_ub
+
+4
+_ube
+
+5
+_uck
+
+6
+_ud
+
+7
+_ue
+glue technique unique value
+8
+_uest
+request
+9
+_ug
+
+10
+_uise
+
+11
+_uit
+
+12
+_ular
+irregular particular regular tabular
+13
+_ulate
+manipulate tabulate
+14
+_ulation
+calculation tabulation
+15
+_ull
+full pull
+16
+_ult
+consult default difficult result
+17
+_um
+maximum minimum optimum sum
+18
+_umber
+number
+19
+_umble
+
+20
+_ume
+assume consume
+21
+_umour
+
+22
+_ump
+
+23
+_un
+fun pronoun run
+24
+_unch
+
+25
+_under
+
+26
+uni_
+unicode unicodedata unique units universal
+27
+_ur
+four occur our your
+28
+_ural
+rural
+29
+_ure
+capture configure figure structure sure temperature
+30
+_urious
+
+31
+_url
+url
+32
+_urn
+return turn
+33
+_urse
+
+34
+_ury
+
+35
+_us
+continuous corpus famous focus minus plus previous thus us various versus
+36
+_use
+because use
+37
+_ush
+brush
+38
+_usion
+
+39
+_ust
+just must
+40
+_ut
+about but distribut input out output put without
+41
+_ute
+absolute acute compute
+42
+_utter
+
+43
+_utton
+
+1
+_val
+
+2
+val_
+valid value values
+3
+van_
+
+4
+_vel
+level novel
+5
+_ven
+even given
+6
+_vent
+
+7
+_ver
+clever discover ever however over
+8
+ver_
+verbose versa version versus very
+9
+_verb
+
+10
+_version
+conversion version
+11
+_very
+every very
+12
+_vest
+
+13
+_vice
+vice
+14
+vi_e
+vice visualize
+15
+_vil
+
+16
+viol_
+
+17
+_vise
+
+18
+_vision
+division
+19
+v_lt
+
+20
+v_n
+version
+21
+_vour
+
+22
+v_st
+
+1
+wa_
+wage wait want wanted was way ways
+2
+wa_e
+wage
+3
+wai_
+wait
+4
+wal_
+
+5
+war_
+
+6
+_ward
+
+7
+_ware
+software
+8
+was_
+was
+9
+wat_
+
+10
+_way
+way
+11
+w_d
+wanted wildcard word worked world would wrapped
+12
+w_der
+
+13
+we_
+we weather web webpage well were wet
+14
+wea_
+weather
+15
+wee_
+
+16
+_wel
+vowel
+17
+wi_e
+wide
+18
+wil_
+wildcard wildcards will
+19
+win_
+windows
+20
+wis_
+
+21
+w_k
+work
+22
+w_ld
+world would
+23
+w_ll
+well will
+24
+wo_
+wo woman women woot word wordnet words work worked working works world would
+25
+woo_
+woot
+26
+wor_
+word wordnet words work worked working works world
+27
+wre_
+
+28
+wri_
+write writing written
+29
+w_st
+
+30
+w_t
+wait want wet what wit without woot wordnet
+31
+w_ter
+
+32
+w_ther
+weather whether
+1
+ye_
+years yellow yet
+2
+yea_
+years
+1
+_zzle
+puzzle

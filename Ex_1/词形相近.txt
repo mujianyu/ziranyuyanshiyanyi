@@ -1,0 +1,315 @@
+absolute absolutely
+access accessed accesses accessible accessing
+added adding
+addition additional
+affix affixes
+allow allowable allowing allows
+alphabet alphabetical
+alternative alternatively
+amount amounts
+answer answers
+appear appeared appears
+application applications
+applied applies apply
+assign assigned assigning
+automatic automatically
+avoid avoiding
+be being
+begin beginning begins
+behavior behaviors
+book books
+boundaries boundary
+bracketed brackets
+break breaking breaks
+build building
+byte bytes
+call called calling
+capital capitalization
+capture capturing
+care careful carefully
+case cases
+challenge challenging
+change changes changing
+chapter chapters
+character characters
+check checking
+choose chooses choosing
+class classes
+close closely
+code coding
+collection collections
+collocation collocations
+combination combine
+come comes
+complicated complications
+comprehension comprehensive
+concatenate concatenating concatenation
+concept concepts
+consisting consists
+consonant consonants
+constrained constrains
+construct constructed
+consult consulting
+contain contained containing contains
+content contents
+continues continuous
+convenient conveniently
+convention conventions
+conversely conversion
+convert converted converting converts
+correct corrected correcting
+correspond corresponding corresponds
+count counting
+covered covering covers
+create created creating
+date dates
+deal dealing
+define defined
+demand demands
+demonstrated demonstrates
+describe described describing
+detail detailed details
+detect detected detecting
+determine determiner determiners determines determining
+develop developer
+differ difference differences different
+digit digits
+discover discovering discovers
+discuss discussed discussion discussions
+display displayed displays
+distinct distinction distinctions
+distribut distribution distributions
+do doing
+document documentation documents
+dog dogs
+download downloaded downloads
+encoded encoding encodings
+end ending endings ends
+engine engines
+enter entered entering
+entire entirely
+examine examining
+example examples
+exercise exercises exercising
+exist existing
+explain explained explaining
+explore exploring
+expression expressions
+extend extended
+extract extracted extracting extraction
+factor factors
+feed feeds
+field fields
+figure figures
+file files
+filename filenames
+final finally
+find finding findings finds
+follow followed following follows
+font fonts
+footer footers
+form formed forms
+format formats formatted formatting
+frequencies frequency
+frequent frequently
+function functionality
+general generally generate generated generator
+give gives
+glyph glyphs
+go going
+handle handled handles handling
+have having
+header headers
+help helpful helps
+howto howtos
+http https
+hypernym hypernyms
+hyphen hyphenated
+identifies identify identifying
+ignore ignored
+illustrate illustrated illustrates illustrating
+import important imported
+improve improves
+include included includes including
+index indexed indexes indexing
+indicate indicates
+informal information
+initial initialize
+input inputs inputting
+insert inserted inserting
+inspect inspection
+instance instances
+instruct instructive
+integer integers
+interacting interactive
+interest interested interesting
+interpret interpretation interpreted interpreter
+involve involved involves involving
+it its
+item items
+join joined
+keep keeps
+key keys
+kind kinds
+know knows
+language languages
+laptop laptops
+learn learned
+leave leaving
+lemma lemmas
+lemmatization lemmatizer
+length lengths
+let lets
+letter letters
+libraries library
+lie lying
+like likely
+line lines
+link links
+list listed listing lists
+literal literally literals
+local locale
+locates locating
+look looks
+loop loops
+make makes making
+manual manually
+map mapped mapping maps
+mark marks
+match matched matches matching
+material materials
+mean meaning means
+message messages
+method methods
+modified modify
+morphological morphology
+multiple multiplication
+name named namely names
+need needed
+negative negatives
+normal normalization normalize normalized normalizing
+notation notations
+note noted
+number numbers
+numeric numerical
+object objects
+occur occurring
+omit omitted omitting
+open opened opening opens
+operating operation operations operator operators
+option optional optionally
+organizations organized
+other others
+padded padding
+parentheses parenthesize
+part parts
+pass passed
+pattern patterns
+phrase phrases
+piece pieces
+point points
+position positive positively positives
+possibilities possible possibly
+post posted posts
+power powerful powers
+practical practice
+precede preceded preceding
+prefer preference preferences
+prefix prefixing
+present presentations
+preserve preserved
+print printed printing prints
+problem problems
+process processed processes processing
+produce produced produces producing
+program programming programs
+provide provides
+quote quoted quotes
+range ranges
+read reading readings reads
+readability readable
+realized realizing
+refer reference references referred
+remove removed removes
+render rendered
+represent represented
+representation representations
+respective respectively
+result resulting results
+return returned returns
+right rights
+row rows
+rule rules
+run running
+sample samples
+save saves saving
+say saying
+score scores
+search searches searching
+second seconds
+section sections
+segmentation segmenting
+select selected selecting
+sentence sentences
+separate separated separation
+sequence sequences
+set sets
+several severely
+similar similarity
+site sites
+slice slices slicing
+sorted sorting
+source sources
+space spaces
+special specialized specially
+specific specification
+specified specifier specifiers specifies specify specifying
+start starting starts
+statement statements
+stem stemming stems
+stemmer stemmers
+stop stopping
+store stored
+stories story
+string strings
+strip stripping strips
+study studying
+substitution substitutions
+substring substrings
+subtleties subtlety
+suffix suffixes
+suggested suggests
+summarized summarizes
+support supports
+symbol symbols
+synset synsets
+system systems
+tab tabs
+table tables
+tabulate tabulated tabulating tabulation
+take takes
+task tasks
+technique techniques
+tell telling tells
+test tests
+text texts
+thing things
+time times
+token tokenization tokenize tokenized tokenizer tokenizers tokenizes tokenizing tokens
+translate translating translation
+tries try trying
+type typed types typing
+understand understanding
+use used useful uses using
+usual usually
+value values
+vowel vowels
+want wanted
+way ways
+wide widely
+width widths
+wildcard wildcards
+word words
+work worked working works
+wrap wrapped wrapping
+write writing
